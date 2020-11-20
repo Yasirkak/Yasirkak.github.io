@@ -1,0 +1,91 @@
+body{ 
+	background-color: black;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url('../img/pizzalong.jpg');
+	
+	background-position: center;
+	
+}
+li{
+	list-style-type: none;
+}
+p{
+	color: white;
+	font-style: bold;
+	font-size: 20px;
+	text-shadow:
+	0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+}
+
+
+.text1{
+	text-align: left;
+	width: 33%;
+	color: white;
+	font-style: bold;
+	font-size: 20px;
+	text-shadow:
+	0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+
+}
+
+.logo{
+	text-align: center;
+	width: 33%;
+}
+.text2{
+	text-align: left;
+	width: 33%;
+	color: white;
+	font-style: bold;
+	font-size: 20px;
+	text-shadow:
+	0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    padding-bottom: 3%;
+}
+
+.tableCenter{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+nav{
+	text-align: center;
+}
+
+section{
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	padding: 67px;
+}
+
+.button{
+	font-size: 20px;
+	appearance: button;
+
+	text-decoration: none;
+	color: initial;
+	background-color: #6B8E23;
+	border-color: black;
+	border-radius: 2px;
+	box-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+}
+
+.button:hover{
+	background-color: black;
+	color: white;
+}
