@@ -27,7 +27,7 @@ nav{
 .parallaxPizza{
 	background-image: url(../img/pizza.jpg);
 
-	background-position: 50% 10%;
+	background-position: 50% 20%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: 80% auto;
